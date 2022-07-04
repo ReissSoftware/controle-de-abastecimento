@@ -1,2 +1,2 @@
-# controle-de-abastecimento
+# controle de abastecimento
 Aplicativo para controle de abastecimentos
